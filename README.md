@@ -1,7 +1,6 @@
 # WallPy
 
-A new Flutter application.
-
+A Flutter Application to change wallpaper using PixaBay API
 ## Getting Started
 
 This project is a starting point for a Flutter application.
